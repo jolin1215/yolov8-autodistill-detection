@@ -1,0 +1,9 @@
+autodistill
+autodistill-grounded-sam
+autodistill-yolov8
+ultralytics
+roboflow
+supervision==0.24.0
+albumentations==1.4
+opencv-python
+torch
